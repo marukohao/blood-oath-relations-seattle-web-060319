@@ -25,11 +25,11 @@ follower11 = Follower.new("Jane", 62, "I don't like mottos.")
 follower12 = Follower.new("Jim", 16, "Hooray!")
 
 BloodOath.new(scary_cult, follower2, "2018-03-19")
-BloodOath.new(scary_cult, follower1, "1880-01-29")
+BloodOath.new(scary_cult, follower1, "2018-01-29")
 BloodOath.new(fun_cult, follower2, "2003-09-10")
 BloodOath.new(fun_cult, follower1, "2000-01-01")
 BloodOath.new(fun_cult, follower3, "1900-01-06")
-BloodOath.new(spiffy_cult, follower12, "1900-01-01")
+BloodOath.new(spiffy_cult, follower12, "1900-01-09")
 
 
 binding.pry
