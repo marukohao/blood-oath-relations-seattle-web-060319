@@ -36,4 +36,5 @@ attr_accessor :cult, :follower, :initiation_date
 		end
 		first_follower
 	end
+	
 end
